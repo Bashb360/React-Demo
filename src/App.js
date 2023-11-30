@@ -8,6 +8,7 @@ function App() {
      
     <>
       <Header />
+      <h1>Hello</h1>
       <Footer />
     </>
 
